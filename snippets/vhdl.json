@@ -1,0 +1,25 @@
+{
+  "zhawh": {
+    "prefix": "inesh",
+    "body": [
+      "-- ------------------------------------------------------------------",
+      "-- --  _____       ______  _____                                   --",
+      "-- -- |_   _|     |  ____|/ ____|                                  --",
+      "-- --   | |  _ __ | |__  | (___    Institute of Embedded Systems   --",
+      "-- --   | | | '_ \\|  __|  \\___ \\   Zurich University of            --",
+      "-- --  _| |_| | | | |____ ____) |  Applied Sciences                --",
+      "-- -- |_____|_| |_|______|_____/   8401 Winterthur, Switzerland    --",
+      "-- ------------------------------------------------------------------",
+      "--! @file ${TM_FILENAME}",
+      "--! @author ${1:<author>} <${2:<email>}@zhaw.ch>",
+      "--! @copyright ${CURRENT_YEAR} ZHAW Institute of Embedded Systems",
+      "--! @date ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+      "--! @brief ${3:<brief description>}",
+      "--!",
+      "--! ${4}",
+      "---------------------------------------------------------------------",
+      "$0"
+    ],
+    "description": "The InES file header"
+  }
+}
