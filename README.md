@@ -1,6 +1,7 @@
 # ZHAW Snippets
 
 This repo contains a collection of ZHAW related snippets.
+
 ## Features
 
 Currently, this collection provides snippets for the InES file headers in C/C++
@@ -13,6 +14,11 @@ encounter them.
 | ------- | -------------------- | ------------ |
 | `inesh` | The InES file header | c, cpp, vhdl |
 
+## Resources
+
+- [VSCode Snippets Documentation](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+- Example project:
+  - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets)
 
 ## Release Notes
 
