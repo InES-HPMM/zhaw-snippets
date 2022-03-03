@@ -27,12 +27,16 @@
   "contributes": {
     "snippets": [
       {
-        "language": "vhdl",
-        "path": "./snippets/vhdl.json"
+        "language": "c",
+        "path": "./snippets/c.json"
       },
       {
-        "language": ["c", "cpp"],
+        "language": "cpp",
         "path": "./snippets/cpp.json"
+      },
+      {
+        "language": "vhdl",
+        "path": "./snippets/vhdl.json"
       }
     ]
   }

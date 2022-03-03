@@ -15,6 +15,7 @@ encounter them.
 Install the extension from the extension market.
 
 ### Vim/Neovim
+
 This plugin only provides snippets. Therefore, you need a plugin that provides
 snippet features and supports loading VSCode snippets.
 
