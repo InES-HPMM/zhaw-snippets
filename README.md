@@ -74,4 +74,5 @@ Initial release of zhaw-snippets
 
 ### 1.0.1
 
-Added header snippet for latex
+- Added header snippet for latex
+- Moved to yarn
