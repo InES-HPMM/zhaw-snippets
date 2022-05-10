@@ -70,9 +70,13 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of zhaw-snippets
+- Initial release of zhaw-snippets
 
 ### 1.0.1
 
 - Added header snippet for latex
 - Moved to yarn
+
+### 1.0.2
+
+- Fixed latex header snippet

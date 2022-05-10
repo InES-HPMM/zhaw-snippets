@@ -3,7 +3,7 @@
   "displayName": "ZHAW Snippets",
   "description": "A collection of ZHAW related snippets",
   "icon": "imgs/zhaw.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "InES-HPMM",
   "engines": {
     "vscode": "^1.64.0"
