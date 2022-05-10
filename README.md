@@ -54,9 +54,9 @@ require("luasnip.loaders.from_vscode").lazy_load()
 
 ## Snippets
 
-| Snippet | Purpose              | Available in |
-| ------- | -------------------- | ------------ |
-| `inesh` | The InES file header | c, cpp, vhdl |
+| Snippet | Purpose              | Available in        |
+| ------- | -------------------- | ------------------- |
+| `inesh` | The InES file header | c, cpp, vhdl, latex |
 
 ## Resources
 
@@ -71,3 +71,7 @@ Users appreciate release notes as you update your extension.
 ### 1.0.0
 
 Initial release of zhaw-snippets
+
+### 1.0.1
+
+Added header snippet for latex

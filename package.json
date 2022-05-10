@@ -3,12 +3,12 @@
   "displayName": "ZHAW Snippets",
   "description": "A collection of ZHAW related snippets",
   "icon": "imgs/zhaw.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "InES-HPMM",
   "engines": {
     "vscode": "^1.64.0"
   },
- "license": "MIT",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/InES-HPMM/zhaw-snippets"
@@ -35,9 +35,22 @@
         "path": "./snippets/cpp.json"
       },
       {
+        "language": "latex",
+        "path": "./snippets/latex.json"
+      },
+      {
+        "language": "tex",
+        "path": "./snippets/latex.json"
+      },
+      {
         "language": "vhdl",
         "path": "./snippets/vhdl.json"
       }
     ]
+  },
+  "dependencies": {
+    "generator-code": "^1.6.10",
+    "vsce": "^2.7.0",
+    "yo": "^4.3.0"
   }
 }
