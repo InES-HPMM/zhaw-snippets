@@ -63,7 +63,7 @@
         "path": "./snippets/vhdl.json"
       },
       {
-        "language":"zsh",
+        "language": "zsh",
         "path": "./snippets/shell.json"
       }
     ]

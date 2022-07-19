@@ -29,12 +29,12 @@ Use your plugin manager to install the package.
 
 ```lua
 -- Packer
-use "rafamadriz/friendly-snippets"
+use "InES-HPMM/zhaw-snippets"
 ```
 
 ```vim
 -- Plug
-Plug 'rafamadriz/friendly-snippets'
+Plug 'InES-HPMM/zhaw-snippets'
 ```
 
 ```
@@ -54,9 +54,9 @@ require("luasnip.loaders.from_vscode").lazy_load()
 
 ## Snippets
 
-| Snippet | Purpose              | Available in        |
-| ------- | -------------------- | ------------------- |
-| `inesh` | The InES file header | c, cpp, vhdl, latex |
+| Snippet | Purpose              | Available in                             |
+| ------- | -------------------- | ---------------------------------------- |
+| `inesh` | The InES file header | c, cpp, vhdl, latex, python, shellscript |
 
 ## Resources
 
