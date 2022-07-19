@@ -15,7 +15,7 @@
       "-- |_____|_| |_|______|_____/   8401 Winterthur, Switzerland    --",
       "------------------------------------------------------------------",
       "@author: ${3:<author>}",
-      "@contact: <${4:<email>}@zhaw.ch>",
+      "@contact: ${4:<email>}@zhaw.ch",
       "@copyright: ${CURRENT_YEAR} ZHAW Institute of Embedded Systems",
       "@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
       "",

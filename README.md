@@ -86,3 +86,8 @@ Users appreciate release notes as you update your extension.
 - Added header snippet for python
 - Added header snippet for shell
 - Added at least one empty line after the header insertion.
+
+### 1.0.4
+
+- Removed angle brackets from python header snippets
+- Updated readme
