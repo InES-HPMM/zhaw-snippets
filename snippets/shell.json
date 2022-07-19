@@ -1,0 +1,27 @@
+{
+  "InES Header": {
+    "prefix": "inesh",
+    "body": [
+      "${1|#!/bin/sh,#!/bin/bash,#!/bin/fish,#!/bin/zsh|}",
+      "${LINE_COMMENT}#################################################################",
+      "${LINE_COMMENT}#  _____       ______  _____                                   ##",
+      "${LINE_COMMENT}# |_   _|     |  ____|/ ____|                                  ##",
+      "${LINE_COMMENT}#   | |  _ __ | |__  | (___    Institute of Embedded Systems   ##",
+      "${LINE_COMMENT}#   | | | '_ \\\\|  __|  \\___ \\   Zurich University of            ##",
+      "${LINE_COMMENT}#  _| |_| | | | |____ ____) |  Applied Sciences                ##",
+      "${LINE_COMMENT}# |_____|_| |_|______|_____/   8401 Winterthur, Switzerland    ##",
+      "${LINE_COMMENT}#################################################################",
+      "${LINE_COMMENT} File: ${TM_FILENAME}",
+      "${LINE_COMMENT} Author: ${2:<author>} <${3:<email>}@zhaw.ch>",
+      "${LINE_COMMENT} Copyright: ${CURRENT_YEAR} ZHAW Institute of Embedded Systems",
+      "${LINE_COMMENT} Date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+      "${LINE_COMMENT} Brief: ${4:<brief description>}",
+      "${LINE_COMMENT} ",
+      "${LINE_COMMENT} ${5}",
+      "${LINE_COMMENT}#################################################################",
+      "",
+      "$0"
+    ],
+    "description": "The InES file header"
+  }
+}

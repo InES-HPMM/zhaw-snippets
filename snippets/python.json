@@ -1,0 +1,31 @@
+{
+  "InES Header": {
+    "prefix": "inesh",
+    "body": [
+      "${1:#!/usr/bin/env python}",
+      "\"\"\"",
+      "${2:<brief description>}",
+      "",
+      "------------------------------------------------------------------",
+      "--  _____       ______  _____                                   --",
+      "-- |_   _|     |  ____|/ ____|                                  --",
+      "--   | |  _ __ | |__  | (___    Institute of Embedded Systems   --",
+      "--   | | | '_ \\\\|  __|  \\___ \\   Zurich University of            --",
+      "--  _| |_| | | | |____ ____) |  Applied Sciences                --",
+      "-- |_____|_| |_|______|_____/   8401 Winterthur, Switzerland    --",
+      "------------------------------------------------------------------",
+      "@author: ${3:<author>}",
+      "@contact: <${4:<email>}@zhaw.ch>",
+      "@copyright: ${CURRENT_YEAR} ZHAW Institute of Embedded Systems",
+      "@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+      "",
+      "${5}",
+      "------------------------------------------------------------------",
+      "\"\"\"",
+      "",
+      "",
+      "$0"
+    ],
+    "description": "The InES file header"
+  }
+}

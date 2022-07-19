@@ -17,4 +17,6 @@ All notable changes to the "zhaw-snippets" extension will be documented in this 
 
 ### 1.0.3
 
+- Added header snippet for python
+- Added header snippet for shell
 - Added at least one empty line after the header insertion.

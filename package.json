@@ -3,7 +3,7 @@
   "displayName": "ZHAW Snippets",
   "description": "A collection of ZHAW related snippets",
   "icon": "imgs/zhaw.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "InES-HPMM",
   "engines": {
     "vscode": "^1.64.0"
@@ -39,12 +39,32 @@
         "path": "./snippets/latex.json"
       },
       {
+        "language": "python",
+        "path": "./snippets/python.json"
+      },
+      {
+        "language": "sh",
+        "path": "./snippets/shell.json"
+      },
+      {
+        "language": "shell",
+        "path": "./snippets/shell.json"
+      },
+      {
+        "language": "shellscript",
+        "path": "./snippets/shell.json"
+      },
+      {
         "language": "tex",
         "path": "./snippets/latex.json"
       },
       {
         "language": "vhdl",
         "path": "./snippets/vhdl.json"
+      },
+      {
+        "language":"zsh",
+        "path": "./snippets/shell.json"
       }
     ]
   },

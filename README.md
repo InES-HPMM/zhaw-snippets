@@ -80,3 +80,9 @@ Users appreciate release notes as you update your extension.
 ### 1.0.2
 
 - Fixed latex header snippet
+
+### 1.0.3
+
+- Added header snippet for python
+- Added header snippet for shell
+- Added at least one empty line after the header insertion.
