@@ -14,3 +14,7 @@ All notable changes to the "zhaw-snippets" extension will be documented in this 
 ### 1.0.2
 
 - Fixed latex header snippet
+
+### 1.0.3
+
+- Added at least one empty line after the header insertion.
