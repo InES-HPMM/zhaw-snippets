@@ -24,3 +24,8 @@ All notable changes to the "zhaw-snippets" extension will be documented in this 
 ### 1.0.4
 
 - Removed angle brackets from python header snippets
+- Updated readme
+
+### 1.0.5
+
+- Updated the python header, to match common usage
