@@ -95,3 +95,4 @@ Users appreciate release notes as you update your extension.
 ### 1.0.5
 
 - Updated the python header, to match common usage
+- Standardized the header over all file types
