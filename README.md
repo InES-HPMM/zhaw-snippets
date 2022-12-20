@@ -96,3 +96,8 @@ Users appreciate release notes as you update your extension.
 
 - Updated the python header, to match common usage
 - Standardized the header over all file types
+
+### 1.0.6
+
+- fix(python): moved one-line docstring onto the same line as the double quotes
+  (PEP257)
