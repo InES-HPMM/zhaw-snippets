@@ -101,3 +101,4 @@ Users appreciate release notes as you update your extension.
 
 - fix(python): moved one-line docstring onto the same line as the double quotes
   (PEP257)
+- fix(python): added space after '=' symbol

@@ -19,7 +19,7 @@
       "",
       "",
       "__author__ = \"${4:<author>} (${5:<initials>}@zhaw.ch)\"",
-      "__copyright__ =\"${CURRENT_YEAR} ZHAW Institute of Embedded Systems\"",
+      "__copyright__ = \"${CURRENT_YEAR} ZHAW Institute of Embedded Systems\"",
       "__date__ = \"${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}\"",
       "",
       "$0"
