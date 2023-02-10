@@ -36,3 +36,9 @@ All notable changes to the "zhaw-snippets" extension will be documented in this 
 - fix(python): moved one-line docstring onto the same line as the double quotes
   (PEP257)
 - fix(python): added space after '=' symbol
+
+
+### Unpublished
+
+- fix(vhdl): add escape character before @zhaw to escape the @ symbol (conflict
+  with doxygen commands)
