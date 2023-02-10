@@ -42,3 +42,5 @@ All notable changes to the "zhaw-snippets" extension will be documented in this 
 
 - fix(vhdl): add escape character before @zhaw to escape the @ symbol (conflict
   with doxygen commands)
+- fix(vhdl): remove the brief and detailed description from the header because
+  doxygen expects the entity description before the entity declaration
