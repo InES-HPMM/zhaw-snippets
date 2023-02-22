@@ -2,20 +2,19 @@
   "name": "zhaw-snippets",
   "displayName": "ZHAW Snippets",
   "description": "A collection of ZHAW related snippets",
-  "icon": "imgs/zhaw.png",
   "version": "1.0.7",
   "publisher": "InES-HPMM",
-  "engines": {
-    "vscode": "^1.64.0"
-  },
-  "license": "MIT",
+  "author": "Thierry Delafontaine <deaa@zhaw.ch>",
   "repository": {
     "type": "git",
     "url": "https://github.com/InES-HPMM/zhaw-snippets"
   },
-  "scripts": {
-    "build": "vsce package -o zhaw-snippets-$npm_package_version.vsix",
-    "install": "yarn build && code --install-extension zhaw-snippets-$npm_package_version.vsix"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InES-HPMM/zhaw-snippets/issues"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
   },
   "keywords": [
     "snippets",
@@ -24,6 +23,11 @@
   "categories": [
     "Snippets"
   ],
+  "icon": "imgs/zhaw.png",
+  "scripts": {
+    "install": "vsce package -o zhaw-snippets-$npm_package_version.vsix",
+    "deploy": "vsce publish --yarn"
+  },
   "contributes": {
     "snippets": [
       {
