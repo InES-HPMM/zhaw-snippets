@@ -72,9 +72,7 @@
       }
     ]
   },
-  "dependencies": {
-    "generator-code": "^1.6.10",
-    "vsce": "^2.7.0",
-    "yo": "^4.3.0"
+  "devDependencies": {
+    "@vscode/vsce": "^2.17.0"
   }
 }
