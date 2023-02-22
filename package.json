@@ -29,7 +29,8 @@
     "deploy": "vsce publish --yarn",
     "postinstall": "husky install",
     "format": "prettier --write '**/*.{ts,json,md,yml,js}'",
-    "pre-commit": "yarn lint-staged"
+    "pre-commit": "yarn lint-staged",
+    "version": "auto-changelog -p -l false -b false --hide-credit && git add CHANGELOG.md"
   },
   "lint-staged": {
     "**/*.{ts,json,md,yml,js}": [
@@ -82,6 +83,7 @@
   },
   "devDependencies": {
     "@vscode/vsce": "^2.17.0",
+    "auto-changelog": "^2.4.0",
     "husky": "^8.0.0",
     "lint-staged": "^13.1.2",
     "prettier": "^2.8.4"
