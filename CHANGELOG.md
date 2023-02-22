@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [v1.1.3](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.2...v1.1.3)
+
+- ci: create two jobs, one which builds the extension, the other releases the extension [`b57830a`](https://github.com/InES-HPMM/zhaw-snippets/commit/b57830a4ca38200ec6d5c8732762436c866f1064)
+
 #### [v1.1.2](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.1...v1.1.2)
+
+> 22 February 2023
 
 - ci: renamed job to release [`9dc9f4d`](https://github.com/InES-HPMM/zhaw-snippets/commit/9dc9f4d7c25f99cc89fdb4db8d27cb0564a12496)
 
