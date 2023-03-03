@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [v1.1.4](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.3...v1.1.4)
+
+- feat(python): add choice node to show/hide the shebang line [`a8f97df`](https://github.com/InES-HPMM/zhaw-snippets/commit/a8f97dfd75ad9f91e88bc01b74de65def0aca28e)
+- typo(python): remove remaining bracket [`46edf7f`](https://github.com/InES-HPMM/zhaw-snippets/commit/46edf7f64f8a457977df2403cf103fb2fb093c7c)
+
 #### [v1.1.3](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.2...v1.1.3)
+
+> 22 February 2023
 
 - ci: create two jobs, one which builds the extension, the other releases the extension [`b57830a`](https://github.com/InES-HPMM/zhaw-snippets/commit/b57830a4ca38200ec6d5c8732762436c866f1064)
 
