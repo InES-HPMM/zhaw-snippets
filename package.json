@@ -68,8 +68,16 @@
         "path": "./snippets/shell.json"
       },
       {
+        "language": "systemverilog",
+        "path": "./snippets/systemverilog.json"
+      },
+      {
         "language": "tex",
         "path": "./snippets/latex.json"
+      },
+      {
+        "language": "verilog",
+        "path": "./snippets/verilog.json"
       },
       {
         "language": "vhdl",

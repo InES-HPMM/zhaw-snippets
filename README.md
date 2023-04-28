@@ -4,9 +4,9 @@ This repo contains a collection of ZHAW related snippets.
 
 ## Features
 
-| Snippet | Purpose              | Available in                             |
-| ------- | -------------------- | ---------------------------------------- |
-| `inesh` | The InES file header | c, cpp, vhdl, latex, python, shellscript |
+| Snippet | Purpose              | Available in                                                     |
+| ------- | -------------------- | ---------------------------------------------------------------- |
+| `inesh` | The InES file header | c, cpp, latex, python, shellscript, systemverilog, verilog, vhdl |
 
 ## Installation
 
