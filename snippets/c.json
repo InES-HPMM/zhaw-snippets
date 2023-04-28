@@ -11,7 +11,7 @@
       " *  |_____|_| |_|______|_____/   8401 Winterthur, Switzerland",
       " * ============================================================",
       " * @file ${TM_FILENAME}",
-      " * @author ${1:<author>} (${2:<initials>}@zhaw.ch)",
+      " * @author ${1:<author>} (${2:<initials>}\\@zhaw.ch)",
       " * @copyright ${CURRENT_YEAR} ZHAW Institute of Embedded Systems",
       " * @date ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
       " * @brief ${3:<brief description>}",
