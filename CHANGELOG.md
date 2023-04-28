@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [v1.1.6](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.5...v1.1.6)
+
+- fix: insert an asterisk in the comment header to mark the header as a doxygen header [`beffe92`](https://github.com/InES-HPMM/zhaw-snippets/commit/beffe92e43b5289e80f85fd6684957a19841be5d)
+
 #### [v1.1.5](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.4...v1.1.5)
+
+> 28 April 2023
 
 - feat: add verilog and systemverilog headers (equal to c or c++) [`a020b8f`](https://github.com/InES-HPMM/zhaw-snippets/commit/a020b8f2eeb02bc699b2410f6306415a3ac81dcb)
 - fix(c, cpp): escape the @ symbol in the email address, else doxygen complais about it [`5f79b6e`](https://github.com/InES-HPMM/zhaw-snippets/commit/5f79b6ecf402899b9ffaedc29ebdd57e1d259680)
