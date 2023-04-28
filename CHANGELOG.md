@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [v1.1.5](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.4...v1.1.5)
+
+- feat: add verilog and systemverilog headers (equal to c or c++) [`a020b8f`](https://github.com/InES-HPMM/zhaw-snippets/commit/a020b8f2eeb02bc699b2410f6306415a3ac81dcb)
+- fix(c, cpp): escape the @ symbol in the email address, else doxygen complais about it [`5f79b6e`](https://github.com/InES-HPMM/zhaw-snippets/commit/5f79b6ecf402899b9ffaedc29ebdd57e1d259680)
+
 #### [v1.1.4](https://github.com/InES-HPMM/zhaw-snippets/compare/v1.1.3...v1.1.4)
+
+> 3 March 2023
 
 - feat(python): add choice node to show/hide the shebang line [`a8f97df`](https://github.com/InES-HPMM/zhaw-snippets/commit/a8f97dfd75ad9f91e88bc01b74de65def0aca28e)
 - typo(python): remove remaining bracket [`46edf7f`](https://github.com/InES-HPMM/zhaw-snippets/commit/46edf7f64f8a457977df2403cf103fb2fb093c7c)
